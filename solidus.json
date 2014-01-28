@@ -1,0 +1,9 @@
+"resources": {
+    "{api}": {
+        "url": "{url}",
+        "headers": {
+            "Api-Key": "{key}",
+            "Project": "{project}"
+        }
+    }
+}
