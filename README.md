@@ -8,5 +8,5 @@ Keep the following requirements in mind when picking up an HTTP library for your
  - **Share headers between requests** to avoid duplication with configuration and simplify [securing credentials][12factor]
  - **Parameter configuration methods** that feel at home — we can do better than really long URLs!
  - **Request and decode compressed responses** for faster transfer speeds
- - **Parse JSON and XML responses** (nobody likes parsing)
+ - **Parse JSON and XML responses** because nobody likes parsing
  - **Support many versions of the language** for compatibility with most projects
